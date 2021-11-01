@@ -28,8 +28,8 @@ RDP is a web application allowing developers to insert a string formatted like a
 
 ### Automata Tutor Updates
 
-Automata Tutor is this weird obtuse software developered by some phd researchers in Germany. 
-For a summer research project in 2020, my professor had me make updates to the software to talor it for his needs. 
+Automata Tutor is this weird obtuse software developered by some phd researchers in Germany for constructing and distributing Automata theory problems to students.
+For a summer research project in 2020, I worked with my professor to update it's functionality and UI.
 
 [Source Code](https://github.com/johnyenter-briars/AutomataTutorUpdates)
 
