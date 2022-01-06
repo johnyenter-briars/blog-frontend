@@ -10,6 +10,7 @@ date: 2021-10-28 11:43:32
 Chrust is a chess engine written in Rust. Its supposed to be a cute name combining the words "Chess" and "Rust". Its a simple AI, but suprisingly affective - if you can beat it, I'd love to hear about it!
 
 [Source Code](https://github.com/johnyenter-briars/chrust)
+[Live](/chrust)
 
 ![](/images/chrust4.png)
 
