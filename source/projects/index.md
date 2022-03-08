@@ -21,9 +21,19 @@ Chrust is a chess engine written in Rust. Its supposed to be a cute name combini
 RDP is a web application allowing developers to insert a string formatted like a date. It then returns the possible date format strings that could compile to the given date string. Inspired by [Crontab Guru](https://crontab.guru/) its designed to reduce the ammount of times developers need to ask: "wait, does the string 'May' correspond to 'MMM' or '%M'?"
 
 [Source Code](https://github.com/johnyenter-briars/chrust)
-[Live](/rdp) (**Under Construction**)
+[Live](/rdp)
 
-![](/images/currentrdp.png)
+![](/images/currentrdp2.png)
+
+---
+
+### Media-System
+
+Media-System is an open source home media system I cobbled together using [LibreELEC OS](https://libreelec.tv/) installed on a [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/). I then built an [Android App](https://github.com/johnyenter-briars/media-system-client) to control the system through its API.
+
+I wrote a blog about the process [here](/2022/02/07/mediasystem).
+
+![](/images/mediasystemapp.png)
 
 ---
 
