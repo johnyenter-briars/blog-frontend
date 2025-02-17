@@ -5,6 +5,37 @@ date: 2021-10-28 11:43:32
 
 # My Projects
 
+### Harmonize
+
+A multi-media management app + server. Designed to take in audio + video media from a variety of sources, and blend it seamlessly from a unified UI. Currently the app is in MVP status, as several critical features like audio are not fully implemented. I hope to finish it one day.
+
+[Source Code](https://github.com/johnyenter-briars/harmonize)
+
+![](/images/XXX.png)
+
+---
+
+### gruvbox-material-vs
+
+A simple yet elegant theme for Visual Studio designed to replicate the brilliant [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material) plugin. I've been thrilled that ~4.5k people have given it a try!
+
+[Source Code](https://github.com/johnyenter-briars/gruvbox-material-vs)
+[Download and Install](https://marketplace.visualstudio.com/items?itemName=jyb.gruvbox-material-vs)
+
+![](https://raw.githubusercontent.com/johnyenter-briars/gruvbox-material-vs/refs/heads/master/media/gruvbox-material-dark-custom.jpg)
+
+---
+
+### CAL
+
+CAL is a simple app for CALendar management. Built on Maui and heavy use of [XCalendar](https://github.com/ME-MarvinE/XCalendar), CAL has been my daily calendar of choice for 3 years.
+
+[Source Code](https://github.com/johnyenter-briars/cal)
+
+![](/images/XXX.png)
+
+---
+
 ### Chess Engine
 
 Chrust is a chess engine written in Rust. Its supposed to be a cute name combining the words "Chess" and "Rust". Its a simple AI, but suprisingly affective - if you can beat it, I'd love to hear about it!
