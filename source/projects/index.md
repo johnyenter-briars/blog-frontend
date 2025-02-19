@@ -118,7 +118,7 @@ A simple yet elegant theme for Visual Studio designed to replicate the brilliant
 
 ### CAL
 
-CAL is a simple app for CALendar management. Built on Maui and heavy use of [XCalendar](https://github.com/ME-MarvinE/XCalendar), CAL has been my daily calendar of choice for 3 years.
+CAL is a simple app for CALendar management. Built on Maui with heavy use of [XCalendar](https://github.com/ME-MarvinE/XCalendar), CAL has been my daily calendar for 3 years.
 
 [Source Code](https://github.com/johnyenter-briars/cal)
 
@@ -132,7 +132,7 @@ CAL is a simple app for CALendar management. Built on Maui and heavy use of [XCa
 
 <div id="cal-imageGrid" class="imageGrid">
 
-<img src="/images/cal/XXX.png" width="100%">
+<img src="/images/cal/cal1.jpg" width="15%">
 
 </div>
 
